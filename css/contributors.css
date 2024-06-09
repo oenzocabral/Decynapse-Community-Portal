@@ -1,0 +1,9 @@
+.user {
+    object-fit: cover;
+    overflow: hidden;
+}
+.img-reponsive {
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 50%;
+}

@@ -89,6 +89,11 @@ h1, h2, h3, h4, h5, h6 {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+
+.custom-borders {
+  border-radius: 12px;
+}
+
 @media screen and (max-width: 768px) {
   #fh5co-header #navbar li {
     margin-left: 10px !important;

@@ -1,4 +1,6 @@
-CREDITS:
+Este é o portal da comunidade Decynapse. Onde as principais informações sobre a Decynapse são publicadas.
+
+Website interface credits:
 
 FREEHTML5.co
 https://freehtml5.co/
